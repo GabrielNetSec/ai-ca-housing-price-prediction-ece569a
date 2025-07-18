@@ -1,6 +1,6 @@
-# Canadian Housing Price Prediction using Machine Learning
+# Canadian Housing Price Prediction using AI techniques
 
-This project was developed for the ECE 470/569A Artificial Intelligence course at the University of Victoria (Summer 2025). It explores the use of machine learning models to predict house prices across major Canadian cities using a real-world dataset.
+This project was developed for the ECE 569A Artificial Intelligence course at the University of Victoria (Summer 2025). It explores the use of AI techniques to predict house prices across major Canadian provinces and cities.
 
 ## Project Objective
 To build a predictive model that estimates house prices based on geographic location (city, province), number of bedrooms and bathrooms, and latitude. The project also compares model performance and interprets geographic trends in pricing.
