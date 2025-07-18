@@ -8,12 +8,11 @@ To build a predictive model that estimates house prices based on geographic loca
 ## Repository Structure
 - `eda_analysis.ipynb`: Initial exploratory data analysis (EDA) and insights about the dataset.
 - `data_Preprocessing.ipynb`: Data cleaning, feature engineering, and one-hot encoding.
-- `modeling_linear_regression-XGBoost.ipynb`: Baseline model using Linear Regression, comparison with XGBoost, visualization, and simulation results.
+- `modeling_linear_regression-XGBoost.ipynb`: One-hot encoding, baseline model using Linear Regression, comparison with XGBoost, visualization, and simulation results.
 
 ## Models Compared
 - **Linear Regression** (Baseline)
 - **XGBoost Regressor** (Advanced)
-
 
 XGBoost outperforms the baseline model with better generalization and lower prediction error.
 
